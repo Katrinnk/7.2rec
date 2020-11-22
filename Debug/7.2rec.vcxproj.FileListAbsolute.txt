@@ -1,0 +1,2 @@
+E:\vs\7.2rec\Debug\7.2rec.exe
+E:\vs\7.2rec\Debug\7.2rec.pdb
